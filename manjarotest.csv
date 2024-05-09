@@ -1,0 +1,6 @@
+Ulfberhet-tech Manjaro Ubuntu Software compatibility,,,,,
+Package,Used on Ubuntu,New on Manjaro,Deployed on Manjaro,Operational,Status
+youtube-dl,yes,no,no,no,WIP
+git,yes,no,yes,yes,preinstalled
+Riot,,,,,
+Ring,,,,,

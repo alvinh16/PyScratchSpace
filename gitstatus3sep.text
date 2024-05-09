@@ -1,0 +1,36 @@
+alvinh@hp7250:/home/alvinh/Documents/Python/PyScratchSpace git:(main*) $ git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   timpy101ex2.py
+	new file:   timpy101ex3.py
+	new file:   timpy101ex4.py
+	new file:   timpy101ex5.py
+	new file:   timpy101ex6.py
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   timpy101ex2.py
+	modified:   timpy101ex3.py
+	modified:   timpy101ex4.py
+	modified:   timpy101ex5.py
+	modified:   timpy101ex6.py
+
+alvinh@hp7250:/home/alvinh/Documents/Python/PyScratchSpace git:(main*) $ git add -A
+alvinh@hp7250:/home/alvinh/Documents/Python/PyScratchSpace git:(main*) $ git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   timpy101ex2.py
+	new file:   timpy101ex3.py
+	new file:   timpy101ex4.py
+	new file:   timpy101ex5.py
+	new file:   timpy101ex6.py
+
